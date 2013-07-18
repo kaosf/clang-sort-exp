@@ -1,4 +1,4 @@
-# Clang Sort Experiment
+# Language C Sort Experiment
 
 ## Requirements
 
